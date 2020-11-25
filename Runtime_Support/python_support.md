@@ -17,3 +17,31 @@ On February 2, 2020 Python 2.7 will not longer be offered as an option in the cr
 | Python 2.x | Official Support |    January 01, 2020      | Windows & Linux |
 
 [Python 2.x Official Support timeline](https://www.python.org/doc/sunset-python-2/)
+
+### Python 3.6 End of Official Support
+
+Once a version of Python has reached it's end of support no new critical or security fixes will be available.
+
+On December 23rd, 2021 Python 3.6 will not longer be offered as an option in the create process for App Service. Existing apps targeting Python 3.6 will not be affected.
+
+## Support Timeline
+
+|  Version   |  Support Status  |  End of Official Support |    OS Support   |
+|------------| ---------------- |:------------------------:|:---------------:|
+| Python 3.6 | Official Support |    December 23, 2020      | Windows & Linux |
+
+[Python 3.6 Official Support timeline](https://devguide.python.org/#status-of-python-branches)
+
+### Python 3.7 End of Official Support
+
+Once a version of Python has reached it's end of support no new critical or security fixes will be available.
+
+On June 27th, 2023 Python 3.7 will not longer be offered as an option in the create process for App Service. Existing apps targeting Python 3.7 will not be affected.
+
+## Support Timeline
+
+|  Version   |  Support Status  |  End of Official Support |    OS Support   |
+|------------| ---------------- |:------------------------:|:---------------:|
+| Python 3.7 | Official Support |    June 27, 2023      | Linux |
+
+[Python 3.7 Official Support timeline](https://devguide.python.org/#status-of-python-branches)
